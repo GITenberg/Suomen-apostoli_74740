@@ -1,0 +1,30 @@
+_repo: Suomen-apostoli_74740
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huntuvuori, Hilda
+    birthdate: 1887
+    deathdate: 1968
+    gutenberg_agent_id: '53568'
+    url: http://www.gutenberg.org/2009/agents/53568
+    wikipedia: https://fi.wikipedia.org/wiki/Hilda_Huntuvuori
+description: ''
+gutenberg_issued: '2024-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74740'
+language: fi
+pgterms:marc905: 20241031043625huntuvuori
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bOtava, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: Suomen apostoli
+url: http://www.gutenberg.org/ebooks/74740
