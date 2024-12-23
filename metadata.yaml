@@ -1,5 +1,8 @@
 _repo: Suomen-apostoli_74740
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Huntuvuori, Hilda
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53568
     wikipedia: https://fi.wikipedia.org/wiki/Hilda_Huntuvuori
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74740#Suomen-apostoli
 gutenberg_issued: '2024-11-14'
 gutenberg_type: Text
 identifiers:
